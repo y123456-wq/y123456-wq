@@ -1,6 +1,6 @@
-# Hi, I'm Wuzhao Li (李武钊)
+# Hi, 
 
-Software Engineering undergraduate @ Xiamen University (Class of 2029). I build **LLM application tooling** — RAG systems, MCP servers, and observability/eval libraries for minimalist agent frameworks.
+I build **LLM application tooling** — RAG systems, MCP servers, and observability/eval libraries for minimalist agent frameworks.
 
 ## Projects
 

@@ -19,6 +19,6 @@ I build **LLM application tooling** — RAG systems, MCP servers, and observabil
 
 ## Currently
 
-Open to **Agent / AI application development internships (Python)** — remote/flexible during term, full-time on winter & summer breaks.
+Open to **Agent / AI application development internships (Python)** — immediate start, available 6+ months, no location constraints.
 
 📬 ym123456wm@gmail.com
